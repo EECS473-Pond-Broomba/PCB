@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=P? NewDesignator=P7
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ6_1
+Added Member To Class: ClassName=Sensors_1 Member=Component J5 61300111121
+Added Member To Class: ClassName=Sensors_1 Member=Component J6 61300111121
+Added Member To Class: ClassName=Sensors_1 Member=Component J8 61300111121

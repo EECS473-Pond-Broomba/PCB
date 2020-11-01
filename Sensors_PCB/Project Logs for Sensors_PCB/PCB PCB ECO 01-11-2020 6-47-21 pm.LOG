@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Servo_out Pin=U1-58
+Added Pin To Net: NetName=Servo_out Pin=U1-28
+Added Room: Name=Sensors_1

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=IN3 Pin=P7-5
+Removed Pin From Net: NetName=IN3 Pin=U1-26
+Change Net Name : Old Net Name=IN3 New Net Name=Servo_filtered_current
+Added Pin To Net: NetName=IN3 Pin=P7-5
+Added Pin To Net: NetName=IN3 Pin=U1-26
+Added Net: Name=IN3
+Added Room: Name=Sensors_1

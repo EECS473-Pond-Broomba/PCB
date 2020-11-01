@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+3V3 Pin=U4-4
+Added Member To Class: ClassName=Sensors_1 Member=Component C6 0603YC104KAZ2A
+Added Member To Class: ClassName=Sensors_1 Member=Component P4 22-23-2031
+Added Room: Name=Sensors_1

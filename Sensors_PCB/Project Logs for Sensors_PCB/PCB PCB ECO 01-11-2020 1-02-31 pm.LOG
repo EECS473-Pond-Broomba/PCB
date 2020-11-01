@@ -1,0 +1,202 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=NetC2_2 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=NRST Pin=C5-2
+Removed Pin From Net: NetName=NetC6_1 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=+3V3 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=+3V3 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=+3V3 Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=+3V3 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=+3V3 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=NetJ1_1 Pin=L1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=L1-2
+Removed Pin From Net: NetName=NetC2_2 Pin=MD1-8
+Removed Pin From Net: NetName=NetC6_1 Pin=MD2-6
+Removed Pin From Net: NetName=+5 Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=A0 Pin=P3-3
+Removed Pin From Net: NetName=A2 Pin=P4-1
+Removed Pin From Net: NetName=A3 Pin=P4-2
+Removed Pin From Net: NetName=A4 Pin=P4-3
+Removed Pin From Net: NetName=+5 Pin=P4-5
+Removed Pin From Net: NetName=+3V3 Pin=P4-6
+Removed Pin From Net: NetName=GND Pin=P4-7
+Removed Pin From Net: NetName=GND Pin=P4-8
+Removed Pin From Net: NetName=+3V3 Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P6-2
+Removed Pin From Net: NetName=A1 Pin=P6-3
+Removed Pin From Net: NetName=VCC_RF Pin=R1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=R1-2
+Removed Member From Class: ClassName=Sensors_1 Member=C2
+Removed Member From Class: ClassName=Sensors_1 Member=C5
+Removed Member From Class: ClassName=Sensors_1 Member=C6
+Removed Member From Class: ClassName=Sensors_1 Member=C9
+Removed Member From Class: ClassName=Sensors_1 Member=C10
+Removed Member From Class: ClassName=Sensors_1 Member=C11
+Removed Member From Class: ClassName=Sensors_1 Member=C12
+Removed Member From Class: ClassName=Sensors_1 Member=C13
+Removed Member From Class: ClassName=Sensors_1 Member=L1
+Removed Member From Class: ClassName=Sensors_1 Member=P3
+Removed Member From Class: ClassName=Sensors_1 Member=P4
+Removed Member From Class: ClassName=Sensors_1 Member=P6
+Removed Member From Class: ClassName=Sensors_1 Member=R1
+Added Component: Designator=C?(CAPC1608X90X35ML15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90X35ML15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90X35ML15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90X35ML15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90X35ML15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90X35ML15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90X35ML15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90X35ML15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Added Component: Designator=L?(IND1005X55X25LL5T10)
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "LQG15HSSeriesTopLQG15HSSeriesEnd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Inductors,Coils,Chokes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://download.siliconexpert.com/pdfs/2010/9/19/0/28/16/422/mrt_/manual/l0075s0083lqg15hs.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "460mOhmMax"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "FixedInductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "1.7GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Test"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022"(0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "27nH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Core"; Value = "Air"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "LQG15HxSeries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "490-2628-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402(1005Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1 x 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel(TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "InductorProducts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q @ Freq"; Value = "8@100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "LQG15HS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039"Lx0.020"W(1.00mmx0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "10,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Multilayer"; VariantName = "[No Variations]"
+Added Component: Designator=P?(MOLX-22-23-2031_V)
+Add component (AddParameter): Name = "Brand"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Pin(Male)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/19472/232274-19472863.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Sep-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "16000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "3Position"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1Row"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Headers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Headers&WireHousings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "6373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tradename"; Value = "KK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Locking"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=P?(MOLX-22-23-2031_V)
+Add component (AddParameter): Name = "Brand"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Pin(Male)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/19472/232274-19472863.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Sep-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "16000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "3Position"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1Row"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Headers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Headers&WireHousings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "6373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tradename"; Value = "KK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Locking"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-1310RL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC6_1 Pin=C?-1
+Added Pin To Net: NetName=NRST Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC2_2 Pin=C?-2
+Added Pin To Net: NetName=NetJ1_1 Pin=L?-1
+Added Pin To Net: NetName=NetC1_1 Pin=L?-2
+Added Pin To Net: NetName=NetC6_1 Pin=MD1-8
+Added Pin To Net: NetName=NetC2_2 Pin=MD2-6
+Added Pin To Net: NetName=+3V3 Pin=P?-1
+Added Pin To Net: NetName=+5 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=A0 Pin=P?-3
+Added Pin To Net: NetName=A1 Pin=P?-3
+Added Pin To Net: NetName=VCC_RF Pin=R?-1
+Added Pin To Net: NetName=NetC1_1 Pin=R?-2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC?_1
+Added Member To Class: ClassName=Sensors_1 Member=Component C? 0603YC104KAZ2A
+Added Member To Class: ClassName=Sensors_1 Member=Component C? 0603YC104KAZ2A
+Added Member To Class: ClassName=Sensors_1 Member=Component C? 0603YC104KAZ2A
+Added Member To Class: ClassName=Sensors_1 Member=Component C? 0603YC104KAZ2A
+Added Member To Class: ClassName=Sensors_1 Member=Component C? 0603YC104KAZ2A
+Added Member To Class: ClassName=Sensors_1 Member=Component C? 0603YC104KAZ2A
+Added Member To Class: ClassName=Sensors_1 Member=Component C? 0603YC104KAZ2A
+Added Member To Class: ClassName=Sensors_1 Member=Component C? 0603YC104KAZ2A
+Added Member To Class: ClassName=Sensors_1 Member=Component L? LQG15HS27NJ02D
+Added Member To Class: ClassName=Sensors_1 Member=Component P? 22-23-2031
+Added Member To Class: ClassName=Sensors_1 Member=Component P? 22-23-2031
+Added Member To Class: ClassName=Sensors_1 Member=Component R? RC0603JR-1310RL
+Added Room: Name=Sensors_1
